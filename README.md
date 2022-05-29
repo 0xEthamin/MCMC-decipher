@@ -2,7 +2,7 @@
 
 Python script that breaks ciphers by substitution.
 
-## Utilisation
+## Usage
 
 `ciphered_text`, in main.py, line 4, is the text to dechipher, you can generate yours with the programm `cipher.py`.
 
